@@ -435,12 +435,4 @@ lagos-lawfirm-s3-dms/
     └── presigned-url-test.png
 ```
 
----
-
-## 📄 License
-
-Internal use only — Lagos Law Firm IT Department. Not for public distribution.
-
----
-
-*Built with ❤️ for secure legal document management | AWS S3 · KMS · IAM · CloudTrail*
+*Built for secure legal document management | AWS S3 · KMS · IAM · CloudTrail*
